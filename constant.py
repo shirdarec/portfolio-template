@@ -3,7 +3,7 @@ info = {
    "Name": "Said",
    "Full_Name": "Said Hemaz",
    "Intro": "A Data scientist with a passion for entrepreneurship and investing",
-   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business.
+   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business.",
    "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
    "Medium":"https://medium.com/@vicky-note/about",
    "City":"Oslo, Norway",
