@@ -3,17 +3,17 @@ info = {
    "Name": "Said",
    "Full_Name": "Said Hemaz",
    "Intro": "A Data scientist with a passion for entrepreneurship and investing",
-   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business.",
-   "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
-   "Medium":"https://medium.com/@vicky-note/about",
+   "About":"Hey there, I'm Said! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business.",
+   "Tableau":"https://public.tableau.com/app/profile/Saidtc/viz/SunnybrookTeam/Overview",
+   "Medium":"https://medium.com/@Said-note/about",
    "City":"Oslo, Norway",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
-   "Email": "vicky.kuo.contact@gmail.com"
+   "Photo":"""<a href=\"https://www.linkedin.com/in/Said-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
+   "Email": "Said.kuo.contact@gmail.com"
 }
 
 embed_rss= {
     'rss':"""<div style="overflow-y: scroll; height:500px; background-color:white;"> <div id="retainable-rss-embed" 
-        data-rss="https://medium.com/feed/@vicky-note"
+        data-rss="https://medium.com/feed/@Said-note"
         data-maxcols="3" 
         data-layout="grid"
         data-poststyle="inline" 
